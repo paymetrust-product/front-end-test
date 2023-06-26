@@ -16,7 +16,7 @@ Convert the following designs to HTML/CSS/JS (pure front-end).
 2. Make it responsive using your best judgement.
 3. Use [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) and [BEM](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) naming convention.
 4. Create custom infinite scroll effect - use custom JavaScript (preferably the modern JS standards and APIs). Don't hesitate to use helpful NPM packages but **keep the JS bundle size low**.
-5. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
+5. Use this API to display posts: https://jsonplaceholder.typicode.com/.
 6. You can add an animated transition between the infinite scroll page and the article page. Keep in mind it's an **optional requirement** though.
 7. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
 8. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
